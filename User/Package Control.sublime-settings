@@ -1,6 +1,7 @@
 {
 	"installed_packages":
 	[
-		"MarkdownEditing"
+		"MarkdownEditing",
+		"SideBarEnhancements"
 	]
 }
